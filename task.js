@@ -51,3 +51,5 @@ function sumtriple(x,y){
 
 console.log(sumtriple(10,20));
 console.log(sumtriple(10,10));
+
+//
